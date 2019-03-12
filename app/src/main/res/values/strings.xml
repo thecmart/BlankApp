@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BlankApp1</string>
+    <string name="login_button_text">Login With Firebase UI</string>
 </resources>
