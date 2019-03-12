@@ -30,4 +30,11 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test:runner:1.1.2-alpha02'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0-alpha02'
+
+    implementation 'co.chatsdk.chatsdk:chat-sdk-firebase-adapter:4.6.0'
+    implementation 'co.chatsdk.chatsdk:chat-sdk-firebase-file-storage:4.6.0'
+    implementation 'co.chatsdk.chatsdk:chat-sdk-core:4.6.0'
+    implementation 'co.chatsdk.chatsdk:chat-sdk-firebase-push:4.6.0'
+    implementation 'co.chatsdk.chatsdk:chat-sdk-firebase-ui:4.6.0'
+    implementation 'co.chatsdk.chatsdk:chat-sdk-ui:4.6.0'
 }
